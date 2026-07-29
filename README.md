@@ -57,9 +57,9 @@
   TOOLSET
 ────────────────────────────────────────────────────────────────────────────
 
-  3D           Autodesk Maya   ·   Blender   ·   Houdini
-  COMP         Nuke
-  REALTIME     Unreal
+  Primary Tools    Autodesk Maya   ·   Blender   ·   Houdini   ·   Unreal Engine
+  Software Stack   Autodesk Maya, Unreal Engine, Arnold, Nuke, Houdini, ZBrush
+  Blender, DaVinci Resolve, Marvelous Designer, Affinity, Mari, Substance Painter
 
 ────────────────────────────────────────────────────────────────────────────
 ```
@@ -73,8 +73,6 @@
 
   ENVIRONMENT CREATION      ████████████████████████████████████
   ANIMATION                 ████████████████████████████████████
-  VISUAL EFFECTS            ████████████████████████████
-  CINEMATIC 3D              ████████████████████████████
 
 ────────────────────────────────────────────────────────────────────────────
 ```
