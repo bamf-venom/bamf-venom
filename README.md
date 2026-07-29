@@ -42,7 +42,7 @@
 
 <div align="center">
 
-### `P I P E L I N E`
+### `A B O U T M E`
 
 ![Maya](https://img.shields.io/badge/AUTODESK_MAYA-000000?style=flat-square&logo=autodeskmaya&logoColor=white&labelColor=000000)
 ![Blender](https://img.shields.io/badge/BLENDER-000000?style=flat-square&logo=blender&logoColor=white&labelColor=000000)
