@@ -1,119 +1,74 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Moritz+Pahrmann;3D+Generalist;Environment+Artist;Animation+%7C+VFX+%7C+Cinematic" />
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ███╗   ███╗██████╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗       │
-│   ████╗ ████║██╔══██╗██╔══██╗██║   ██║██╔════╝╚██╗██╔╝       │
-│   ██╔████╔██║██████╔╝██████╔╝██║   ██║█████╗   ╚███╔╝        │
-│   ██║╚██╔╝██║██╔══██╗██╔═══╝ ╚██╗ ██╔╝██╔══╝   ██╔██╗        │
-│   ██║ ╚═╝ ██║██████╔╝██║      ╚████╔╝ ██║     ██╔╝ ██╗       │
-│   ╚═╝     ╚═╝╚═════╝ ╚═╝       ╚═══╝  ╚═╝     ╚═╝  ╚═╝       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<pre>
+███╗   ███╗ ██████╗ ██████╗  ██╗████████╗███████╗
+████╗ ████║██╔═══██╗██╔══██╗ ██║╚══██╔══╝╚══███╔╝
+██╔████╔██║██║   ██║██████╔╝ ██║   ██║     ███╔╝ 
+██║╚██╔╝██║██║   ██║██╔══██╗ ██║   ██║    ███╔╝  
+██║ ╚═╝ ██║╚██████╔╝██║  ██║ ██║   ██║   ███████╗
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═╝   ╚═╝   ╚══════╝
+           P A H R M A N N   ·   3 D
+</pre>
 
-```console
-> whoami
+[[Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=3D+Artist+%2F+CG+Generalist;Film+%C2%B7+Animation+%C2%B7+Visual+Effects;Cinematic+3D+from+Germany)](https://mbpvfx.com)
 
-Name........: Moritz Pahrmann
-Role........: 3D Generalist
-Focus.......: Animation • Environments • Lighting
-Education...: PIXL VISN Media Arts Academy
-Location....: Germany
+`crafting worlds in Maya · Blender · Houdini · Nuke · Unreal`
 
-Status......: Building cinematic worlds...
-```
+<br/>
 
----
+[[Portfolio](https://img.shields.io/badge/PORTFOLIO-mbpvfx.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://mbpvfx.com)
+&nbsp;
+[[Discord](https://img.shields.io/badge/DISCORD-mbpvfx-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/mbpvfx)
 
-## ⚡ Tech Stack
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=blender,unreal,git,github,vscode"/>
+## About
 
-</p>
+<pre>
+Moritz Bennet Pahrmann — 3D Artist & CG Generalist based in Germany.
+Graduate of PIXL VISN Media Arts Academy, Cologne (Oct 2025).
+Focus: Environment Creation · Animation · Cinematic 3D.
+</pre>
 
-| Software | Level |
-|----------|-------|
-| Maya | ██████████ |
-| Blender | █████████ |
-| Houdini | ████████ |
-| Nuke | ███████ |
-| Unreal Engine 5 | █████████ |
-| Substance Painter | ███████ |
+<br/>
 
----
+## Pipeline
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
+[Maya](https://img.shields.io/badge/Autodesk_Maya-111111?style=flat-square&logo=autodeskmaya&logoColor=white&labelColor=000000)
+[Blender](https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=white&labelColor=000000)
+[Houdini](https://img.shields.io/badge/Houdini-111111?style=flat-square&logo=houdini&logoColor=white&labelColor=000000)
+[Nuke](https://img.shields.io/badge/Nuke-111111?style=flat-square&logo=foundry&logoColor=white&labelColor=000000)
+[Unreal](https://img.shields.io/badge/Unreal_Engine-111111?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=tokyonight"/>
+</div>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DEINUSERNAME&theme=tokyonight"/>
+<br/>
 
-</p>
+## Focus
 
----
+<pre>
+Environment Creation   ██████████████████░░   Cinematic worlds & set extensions
+Animation              ████████████████░░░░   Character & motion
+Visual Effects         █████████████████░░░   Compositing & CG integration
+</pre>
 
-## 💻 Languages
+<br/>
 
-<p align="center">
+## Education
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=tokyonight"/>
+<pre>
+PIXL VISN Media Arts Academy — Cologne, Germany
+3D Visual Effects & Animation  ·  Graduated October 2025
+</pre>
 
-</p>
+<br/>
 
----
+<div align="center">
 
-## 🏆 Achievements
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=bamf-venom&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=contribs,prs&count_private=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=DEINUSERNAME&theme=tokyonight&row=2&column=4"/>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/DEINUSERNAME/DEINUSERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## 🌍 Portfolio
-
-🌐 https://mbpvfx.com
-
-ArtStation
-
-LinkedIn
-
-The Rookies
-
----
-
-## 🎬 Current Focus
-
-```yaml
-Currently:
-  - Cinematic Environments
-  - Unreal Engine 5
-  - Houdini FX
-  - Animation
-  - Procedural Workflows
-
-Learning:
-  - C++
-  - Robotics
-  - Fusion 360
-```
-
----
-
-## 👁 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=DEINUSERNAME&style=for-the-badge&color=blue"/>
+</div>
