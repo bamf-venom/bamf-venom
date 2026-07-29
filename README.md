@@ -31,7 +31,7 @@
 
   NAME         Moritz Bennet Pahrmann
   ROLE         3D Artist / CG Generalist
-  FIELD        Film · Animation · Visual Effects · Cinematic 3D
+  FIELD        VFX and 3D Animation
   BASED        Germany
   PORTFOLIO    https://mbpvfx.com
 
@@ -58,7 +58,9 @@
 ────────────────────────────────────────────────────────────────────────────
 
   Primary Tools    Autodesk Maya   ·   Blender   ·   Houdini   ·   Unreal Engine
-  Software Stack   Autodesk Maya, Unreal Engine, Arnold, Nuke, Houdini, ZBrush
+  
+                               Software Stack:   
+  Autodesk Maya, Unreal Engine, Arnold, Nuke, Houdini, ZBrush
   Blender, DaVinci Resolve, Marvelous Designer, Affinity, Mari, Substance Painter
 
 ────────────────────────────────────────────────────────────────────────────
