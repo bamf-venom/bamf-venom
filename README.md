@@ -2,29 +2,25 @@
 
 <div align="center">
 
-<h3><code>bamf-venom@github ~ $ ./profile.sh</code></h3>
+<h3><code>bamf-venom@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./profile-heatmap.svg" width="820" alt="Animated GitHub contribution graph" />
 
 <br/><br/>
 
-<img src="./profile-info.svg" width="420" alt="Terminal profile card" />
+<h3><code>bamf-venom@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./profile-wordmark.svg" width="370" alt="Animated ASCII wordmark" /></td>
+<td valign="top"><img src="./profile-info.svg" width="420" alt="Animated terminal profile card" /></td>
+</tr>
+</table>
 
 </div>
 <br/>
 
 
-
-```
- /$$      /$$ /$$$$$$$  /$$$$$$$
-| $$$    /$$$| $$__  $$| $$__  $$
-| $$$$  /$$$$| $$  \ $$| $$  \ $$
-| $$ $$/$$ $$| $$$$$$$ | $$$$$$$/
-| $$  $$$| $$| $$__  $$| $$____/
-| $$\  $ | $$| $$  \ $$| $$
-| $$ \/  | $$| $$$$$$$/| $$
-|__/     |__/|_______/ |__/
-```
 
 # MORITZ BENNET PAHRMANN
 
