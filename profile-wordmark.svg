@@ -3,7 +3,7 @@
 <rect width="370" height="34" rx="10" fill="#161b22"/><path d="M0 34h370" stroke="#30363d"/>
 <circle cx="18" cy="17" r="5" fill="#ff6b6b"/><circle cx="36" cy="17" r="5" fill="#f2c14e"/><circle cx="54" cy="17" r="5" fill="#69db7c"/>
 <text x="76" y="21" fill="#8b949e" font-family="monospace" font-size="12">bamf-venom@github ~ $ whoami</text>
-<text x="76" y="74" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="10" xml:space="preserve" opacity="0"> /$$      /$$ /$$$$$$$  /$$$$$$$<animate attributeName="opacity" from="0" to="1" dur="0.22s" begin="0.15s" fill="freeze"/></text>
+<text x="76" y="74" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="10" xml:space="preserve" opacity="0">/$      /$ /$$$$$$$  /$$$$$$$<animate attributeName="opacity" from="0" to="1" dur="0.22s" begin="0.15s" fill="freeze"/></text>
 <text x="76" y="89" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="10" xml:space="preserve" opacity="0">| $$$    /$$$| $$__  $$| $$__  $$<animate attributeName="opacity" from="0" to="1" dur="0.22s" begin="0.31s" fill="freeze"/></text>
 <text x="76" y="104" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="10" xml:space="preserve" opacity="0">| $$$$  /$$$$| $$  \ $$| $$  \ $$<animate attributeName="opacity" from="0" to="1" dur="0.22s" begin="0.47s" fill="freeze"/></text>
 <text x="76" y="119" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="10" xml:space="preserve" opacity="0">| $$ $$/$$ $$| $$$$$$$ | $$$$$$$/<animate attributeName="opacity" from="0" to="1" dur="0.22s" begin="0.63s" fill="freeze"/></text>
