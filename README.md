@@ -1,5 +1,37 @@
 <div align="center">
 
+<div align="center">
+
+### `bamf-venom@github ~  <code>./profile.sh</code>
+
+<img src="./profile-heatmap.svg" width="820" alt="Animated GitHub contribution graph" />
+
+<table>
+<tr>
+<td valign="top"><img src="./profile-info.svg" width="420" alt="Terminal profile card" /></td>
+<td valign="top">
+
+```text
+ /$      /$ /$$$$  /$$$$
+| $$    /$$| $__  $| $__  $
+| $$  /$$| $  \ $| $  \ $
+| $ $/$ $| $$$$ | $$$$/
+| $  $$| $| $__  $| $____/
+| $\  $ | $| $  \ $| $
+| $ \/  | $| $$$$/| $
+|__/     |__/|_______/ |__/
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+
+
 ```
  /$$      /$$ /$$$$$$$  /$$$$$$$
 | $$$    /$$$| $$__  $$| $$__  $$
