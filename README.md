@@ -27,29 +27,17 @@
 
 ### <code>bamf-venom@github ~ $ ./links.sh</code>
 
-<table>
-<tr>
-<td><code>PORTFOLIO</code><br/><a href="https://mbpvfx.com"><strong>MBPVFX.COM ↗</strong></a></td>
-<td><code>BASED IN</code><br/><strong>GERMANY</strong></td>
-</tr>
-</table>
+<img src="./profile-links.svg" width="820" alt="Portfolio and location with green accents" />
+
+[![Open portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-39D353?style=for-the-badge&labelColor=161b22)](https://mbpvfx.com) &nbsp; <code>BASED IN GERMANY</code>
 
 ### <code>bamf-venom@github ~ $ ./projects.sh</code>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<strong>01 / MBPVFX.COM</strong><br/>
-<sub>3D Artist / CG Generalist · Portfolio</sub><br/><br/>
-<a href="https://mbpvfx.com"><strong>OPEN PROJECT ↗</strong></a>
-</td>
-<td valign="top" width="50%">
-<strong>02 / NFL POINTS</strong><br/>
-<sub>Tip NFL games with friends and compare points</sub><br/><br/>
-<a href="https://bamf-venom.github.io/NFL/"><strong>OPEN APP ↗</strong></a>
-</td>
-</tr>
-</table>
+<img src="./profile-projects.svg" width="820" alt="Portfolio and NFL Points project cards" />
+
+[![Visit MBPVFX.com](https://img.shields.io/badge/OPEN_PORTFOLIO-39D353?style=for-the-badge&labelColor=161b22)](https://mbpvfx.com) &nbsp; [![Launch NFL Points](https://img.shields.io/badge/OPEN_NFL_POINTS-39D353?style=for-the-badge&labelColor=161b22)](https://bamf-venom.github.io/NFL/)
+
+<sub><a href="https://github.com/bamf-venom/NFL">NFL Points source ↗</a></sub>
 
 </div>
 
