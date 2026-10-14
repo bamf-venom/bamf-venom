@@ -56,7 +56,7 @@ def main():
     parser.feed(html)
     for item in parser.days:
         tooltip = " ".join(parser.tooltips.get(item["id"], []))
-        count_match = re.search(r"(\\d[\\d,]*)\\s+contributions?", tooltip, re.IGNORECASE)
+        count_match = re.search(r"(\d[\d,]*)\s+contributions?", tooltip, re.IGNORECASE)
         if count_match:
             item["count"] = int(count_match.group(1).replace(",", ""))
         elif re.search(r"no contributions", tooltip, re.IGNORECASE):
