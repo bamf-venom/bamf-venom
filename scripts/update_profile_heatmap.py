@@ -19,17 +19,31 @@ class ContributionParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.days = []
+        self.tooltips = {}
+        self.active_tooltip = None
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
-        if tag == "td" and "ContributionCalendar-day" in attrs.get("class", ""):
+        if tag == "tool-tip" and attrs.get("for"):
+            self.active_tooltip = attrs["for"]
+            self.tooltips[self.active_tooltip] = []
+        elif tag == "td" and "ContributionCalendar-day" in attrs.get("class", ""):
             day = attrs.get("data-date")
             if day:
                 self.days.append({
+                    "id": attrs.get("id", ""),
                     "date": day,
                     "count": int(attrs.get("data-count", "0") or 0),
                     "level": int(attrs.get("data-level", "0") or 0),
                 })
+
+    def handle_data(self, data):
+        if self.active_tooltip:
+            self.tooltips[self.active_tooltip].append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "tool-tip":
+            self.active_tooltip = None
 
 
 def main():
@@ -40,6 +54,14 @@ def main():
 
     parser = ContributionParser()
     parser.feed(html)
+    for item in parser.days:
+        tooltip = " ".join(parser.tooltips.get(item["id"], []))
+        count_match = re.search(r"(\\d[\\d,]*)\\s+contributions?", tooltip, re.IGNORECASE)
+        if count_match:
+            item["count"] = int(count_match.group(1).replace(",", ""))
+        elif re.search(r"no contributions", tooltip, re.IGNORECASE):
+            item["count"] = 0
+
     unique = {item["date"]: item for item in parser.days}
     days = sorted(unique.values(), key=lambda item: item["date"])
     if len(days) < 300:
@@ -50,6 +72,8 @@ def main():
     days = [item for item in days if start <= date.fromisoformat(item["date"]) <= end]
     by_date = {item["date"]: item for item in days}
     total = sum(item["count"] for item in days)
+    if total == 0:
+        raise RuntimeError("No contribution counts were parsed from GitHub's day tooltips; refusing to publish an empty graph.")
     start_monday = start - timedelta(days=start.weekday())
 
     cells = []
