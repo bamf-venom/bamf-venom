@@ -4,14 +4,10 @@
 <path d="M0 34h420" stroke="#30363d"/>
 <circle cx="18" cy="17" r="5" fill="#ff6b6b"/><circle cx="36" cy="17" r="5" fill="#f2c14e"/><circle cx="54" cy="17" r="5" fill="#69db7c"/>
 <text x="76" y="21" fill="#8b949e" font-family="monospace" font-size="12">bamf-venom@github — profile</text>
-<g font-family="monospace" font-size="13">
-<text x="22" y="68" fill="#a7e6a1">name</text><text x="118" y="68" fill="#c9d1d9">Moritz Bennet Pahrmann</text>
-<text x="22" y="96" fill="#a7e6a1">role</text><text x="118" y="96" fill="#c9d1d9">3D Artist / CG Generalist</text>
-<text x="22" y="124" fill="#a7e6a1">focus</text><text x="118" y="124" fill="#c9d1d9">VFX · Animation · Environments</text>
-<text x="22" y="152" fill="#a7e6a1">tools</text><text x="118" y="152" fill="#c9d1d9">Maya · Blender · Houdini</text>
-<text x="118" y="174" fill="#c9d1d9">Nuke · Unreal Engine</text>
-<a href="https://mbpvfx.com"><text x="22" y="202" fill="#79b982">→ mbpvfx.com</text></a>
-</g>
-<g fill="#a7e6a1"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.15;1" dur="1.8s" fill="freeze"/>
-<text x="22" y="68">▌</text><text x="22" y="96">▌</text><text x="22" y="124">▌</text><text x="22" y="152">▌</text></g>
+<g font-family="monospace" font-size="12" opacity="0"><text x="22" y="68" fill="#a7e6a1">name</text><text x="118" y="68" fill="#c9d1d9">Moritz Bennet Pahrmann</text><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/></g>
+<g font-family="monospace" font-size="12" opacity="0"><text x="22" y="96" fill="#a7e6a1">role</text><text x="118" y="96" fill="#c9d1d9">3D Artist / CG Generalist</text><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.45s" fill="freeze"/></g>
+<g font-family="monospace" font-size="12" opacity="0"><text x="22" y="124" fill="#a7e6a1">focus</text><text x="118" y="124" fill="#c9d1d9">VFX · Animation · Environments</text><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/></g>
+<g font-family="monospace" font-size="12" opacity="0"><text x="22" y="152" fill="#a7e6a1">tools</text><text x="118" y="152" fill="#c9d1d9">Maya · Blender · Houdini</text><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.95s" fill="freeze"/></g>
+<g font-family="monospace" font-size="12" opacity="0"><text x="118" y="174" fill="#c9d1d9">Nuke · Unreal Engine</text><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/></g>
+<a href="https://mbpvfx.com"><text x="22" y="202" fill="#79b982" font-family="monospace" font-size="12" opacity="0">→ mbpvfx.com<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.45s" fill="freeze"/></text></a>
 </svg>
