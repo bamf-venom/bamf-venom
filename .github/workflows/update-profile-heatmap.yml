@@ -1,6 +1,12 @@
 name: Refresh profile contribution graph
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "scripts/update_profile_heatmap.py"
+      - ".github/workflows/update-profile-heatmap.yml"
   schedule:
     - cron: "17 6 * * *"
   workflow_dispatch:
