@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="124" viewBox="0 0 820 124" role="img" aria-label="Portfolio and location">
+<rect width="820" height="124" rx="12" fill="#0d1117"/>
+<g>
+<rect x="12" y="12" width="390" height="100" rx="10" fill="#111820" stroke="#30363d"/>
+<rect x="12" y="12" width="4" height="100" rx="2" fill="#39d353"/>
+<text x="34" y="42" fill="#79b982" font-family="monospace" font-size="11" letter-spacing="1.2">01 / PORTFOLIO</text>
+<text x="34" y="76" fill="#f0f6fc" font-family="monospace" font-size="21" font-weight="bold">MBPVFX.COM</text>
+<text x="34" y="97" fill="#8b949e" font-family="monospace" font-size="11">3D ART · VFX · ANIMATION</text>
+<path d="M360 74h18m-7-7 7 7-7 7" fill="none" stroke="#39d353" stroke-width="2"/>
+</g>
+<g>
+<rect x="418" y="12" width="390" height="100" rx="10" fill="#111820" stroke="#30363d"/>
+<rect x="418" y="12" width="4" height="100" rx="2" fill="#39d353"/>
+<text x="440" y="42" fill="#79b982" font-family="monospace" font-size="11" letter-spacing="1.2">02 / BASED IN</text>
+<text x="440" y="76" fill="#f0f6fc" font-family="monospace" font-size="21" font-weight="bold">GERMANY</text>
+<text x="440" y="97" fill="#8b949e" font-family="monospace" font-size="11">EUROPE · UTC+1 / UTC+2</text>
+<circle cx="777" cy="67" r="10" fill="none" stroke="#39d353" stroke-width="2"/><path d="M767 67h20m-10-10c5 6 5 14 0 20m0-20c-5 6-5 14 0 20" fill="none" stroke="#39d353" stroke-width="1.4"/>
+</g>
+</svg>
