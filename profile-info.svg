@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="218" viewBox="0 0 420 218" role="img" aria-label="Moritz Bennet Pahrmann profile information">
+<rect width="420" height="218" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="420" height="34" rx="10" fill="#161b22"/>
+<path d="M0 34h420" stroke="#30363d"/>
+<circle cx="18" cy="17" r="5" fill="#ff6b6b"/><circle cx="36" cy="17" r="5" fill="#f2c14e"/><circle cx="54" cy="17" r="5" fill="#69db7c"/>
+<text x="76" y="21" fill="#8b949e" font-family="monospace" font-size="12">bamf-venom@github — profile</text>
+<g font-family="monospace" font-size="13">
+<text x="22" y="68" fill="#a7e6a1">name</text><text x="118" y="68" fill="#c9d1d9">Moritz Bennet Pahrmann</text>
+<text x="22" y="96" fill="#a7e6a1">role</text><text x="118" y="96" fill="#c9d1d9">3D Artist / CG Generalist</text>
+<text x="22" y="124" fill="#a7e6a1">focus</text><text x="118" y="124" fill="#c9d1d9">VFX · Animation · Environments</text>
+<text x="22" y="152" fill="#a7e6a1">tools</text><text x="118" y="152" fill="#c9d1d9">Maya · Blender · Houdini</text>
+<text x="118" y="174" fill="#c9d1d9">Nuke · Unreal Engine</text>
+<a href="https://mbpvfx.com"><text x="22" y="202" fill="#79b982">→ mbpvfx.com</text></a>
+</g>
+<g fill="#a7e6a1"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.15;1" dur="1.8s" fill="freeze"/>
+<text x="22" y="68">▌</text><text x="22" y="96">▌</text><text x="22" y="124">▌</text><text x="22" y="152">▌</text></g>
+</svg>
