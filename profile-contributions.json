@@ -713,7 +713,7 @@
       "id": "contribution-day-component-2-17",
       "date": "2026-02-10",
       "count": 7,
-      "level": 4
+      "level": 3
     },
     {
       "id": "contribution-day-component-3-17",
@@ -2057,7 +2057,7 @@
       "id": "contribution-day-component-2-49",
       "date": "2026-09-22",
       "count": 7,
-      "level": 4
+      "level": 3
     },
     {
       "id": "contribution-day-component-3-49",
@@ -2188,7 +2188,7 @@
     {
       "id": "contribution-day-component-3-52",
       "date": "2026-10-14",
-      "count": 8,
+      "count": 13,
       "level": 4
     }
   ]
