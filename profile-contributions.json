@@ -2,12 +2,6 @@
   "username": "bamf-venom",
   "days": [
     {
-      "id": "contribution-day-component-1-0",
-      "date": "2025-10-27",
-      "count": 0,
-      "level": 0
-    },
-    {
       "id": "contribution-day-component-2-0",
       "date": "2025-10-28",
       "count": 0,
@@ -2188,6 +2182,12 @@
     {
       "id": "contribution-day-component-1-52",
       "date": "2026-10-26",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "id": "contribution-day-component-2-52",
+      "date": "2026-10-27",
       "count": 0,
       "level": 0
     }
